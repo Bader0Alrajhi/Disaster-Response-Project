@@ -9,20 +9,43 @@
 5. Licensing, Authors, and Acknowledgements
 
 
-### Installation
+### 1. Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python 3.
 
-### Project Motivation
-For this project, I was interestested in building an app where it can classify messages
+### 2. Project Motivation
+For this project, I was interestested in building an app where it can classify disaster messages
 
 
 
-### File Descriptions
-There is one notebooks available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+### 3. File Descriptions
+There are notebooks available, and Markdown cells were used to assist in walking through the thought process for individual steps.
 
-### Results
-The main findings of the code can be found at app folder.
+Here's the file structure of the project:
 
-### Licensing, Authors, Acknowledgements
+```
+- app
+| - template
+| |- master.html  # main page of web app
+| |- go.html  # classification result page of web app
+|- run.py  # Flask file that runs app
 
-Must give credit to Udacity for the data. Feel free to use the code here as you would like!
+- data
+|- categories.csv  # data to process 
+|- messages.csv  # data to process
+|- process_data.py
+|- DisasterResponseData.db   # database to save clean data to
+
+- models
+|- train_classifier.py
+|- AdaBoost_classifier.pkl  # saved model 
+
+- README.md
+```
+
+
+### 4. Results
+The main findings of the code can be found at app folder by running run.py.
+
+### 5. Licensing, Authors, Acknowledgements
+
+Must give credit to Figure Eight Inc. for the data. Feel free to use the code here as you would like!
