@@ -6,7 +6,7 @@
 2. Project Motivation
 3. File Descriptions
 4. Instructions
-5. Results
+5. Summary
 6. Licensing, Authors, and Acknowledgements
 
 
@@ -64,7 +64,7 @@ Run the following command in the app's directory.
 
 
 
-### 5. Results
+### 5. Summary
 The main findings of the code can be found at app folder by running run.py.
 
 ### 6. Licensing, Authors, Acknowledgements
