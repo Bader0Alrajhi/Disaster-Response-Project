@@ -57,7 +57,7 @@ Run the following commands to set up your database and model.
 
 2. For the web app,  
 
-Run the following command in the app's directory.
+   Run the following command in the app's directory.
 ```python run.py```
 
 3. Go to http://0.0.0.0:3001/
