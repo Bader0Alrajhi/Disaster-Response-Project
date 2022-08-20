@@ -17,8 +17,6 @@ For this project, I was interestested in building an app where it can classify m
 
 
 
-The full set of files related to this course are owned by Kaggle (Visit Website).
-
 ### File Descriptions
 There is one notebooks available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
