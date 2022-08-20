@@ -5,8 +5,9 @@
 1. Installation
 2. Project Motivation
 3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
+4. Instructions
+5. Results
+6. Licensing, Authors, and Acknowledgements
 
 
 ### 1. Installation
@@ -42,10 +43,14 @@ Here's the file structure of the project:
 - README.md
 ```
 
+### 4. Instructions
 
-### 4. Results
+
+
+
+### 5. Results
 The main findings of the code can be found at app folder by running run.py.
 
-### 5. Licensing, Authors, Acknowledgements
+### 6. Licensing, Authors, Acknowledgements
 
 Must give credit to Figure Eight Inc. for the data. Feel free to use the code here as you would like!
