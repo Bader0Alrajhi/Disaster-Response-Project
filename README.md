@@ -11,17 +11,17 @@
 
 
 ### 1. Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python 3.
+    There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python 3.
 
 ### 2. Project Motivation
-For this project, I was interestested in building an app where it can classify disaster messages
+    For this project, I was interestested in building an app where it can classify disaster messages
 
 
 
 ### 3. File Descriptions
-There are notebooks available, and Markdown cells were used to assist in walking through the thought process for individual steps.
+    There are notebooks available, and Markdown cells were used to assist in walking through the thought process for individual steps.
 
-Here's the file structure of the project:
+    Here's the file structure of the project:
 
 ```
 - app
@@ -45,7 +45,7 @@ Here's the file structure of the project:
 
 ### 4. Instructions
 
-Run the following commands to set up your database and model.
+    Run the following commands to set up your database and model.
 
 1. For ETL pipeline and ML pipeline process,
 
@@ -65,8 +65,11 @@ Run the following commands to set up your database and model.
 
 
 ### 5. Summary
-The main findings of the code can be found at app folder by running run.py.
+    The purpose of this project is to help communities, families, and individuals to be prepared in an event of disaster.
+    Tt help to reduce fear, anxiety, losses.
 
 ### 6. Licensing, Authors, Acknowledgements
 
-Must give credit to Figure Eight Inc. for the data. Feel free to use the code here as you would like!
+    Must give credit to Figure Eight Inc. for the data. Feel free to use the code here as you would like!
+    
+    
