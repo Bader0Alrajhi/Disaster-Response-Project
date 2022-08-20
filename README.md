@@ -21,7 +21,7 @@ For this project, I was interestested in building an app where it can classify m
 There is one notebooks available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ### Results
-The main findings of the code can be found at recap section in the end of the Jupyter at Seattle Airbnb Project.ipynb.
+The main findings of the code can be found at app folder.
 
 ### Licensing, Authors, Acknowledgements
 
