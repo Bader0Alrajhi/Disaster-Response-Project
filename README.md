@@ -50,10 +50,10 @@
 1. For ETL pipeline and ML pipeline process,
 
     a. To run ETL pipeline that cleans data and stores in sqlite db run:
-```python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db```
+```python data/process_data.py data/messages.csv data/categories.csv data/DisasterResponseData.db```
 
     b. To run ML pipeline that trains classifier and save a pkl model run:
-```python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl```
+```python models/train_classifier.py data/DisasterResponseData.db models/AdaBoost_classifier.pkl```
 
 2. For the web app,  
 
